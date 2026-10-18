@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/starbuck/assets/css/bootstrap.css">
     <script src="../assets/js/bootsrap.js"></script>
 </head>
+<!-- Dashboard  -->
 
 <body>
     <nav class="navbar md:navbar-expand bg-1">
@@ -28,7 +29,7 @@
                             <a class="nav-link  href=" #">Dashboard</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Cashier</a>
+                            <a class="nav-link" href="#">Kasir</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link  href=" #">Products</a>
