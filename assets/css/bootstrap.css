@@ -6,7 +6,7 @@
     --bs-blue-200: color-mix(in oklch, var(--bs-white) 60%, oklch(60% .24 240));
     --bs-blue-300: color-mix(in oklch, var(--bs-white) 40%, oklch(60% .24 240));
     --bs-blue-400: color-mix(in oklch, var(--bs-white) 20%, oklch(60% .24 240));
-    --bs-blue-500: oklch(60% .24 240);
+    --bs-blue-500: oklch(23.771% 0.06385 247.916);
     --bs-blue-600: color-mix(in oklch, var(--bs-black) 16%, oklch(60% .24 240));
     --bs-blue-700: color-mix(in oklch, var(--bs-black) 32%, oklch(60% .24 240));
     --bs-blue-800: color-mix(in oklch, var(--bs-black) 48%, oklch(60% .24 240));
